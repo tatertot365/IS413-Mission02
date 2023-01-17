@@ -1,0 +1,15 @@
+/Users/tategillespie/Desktop/IS 413/Mission02/Mission02/bin/Debug/net6.0/Mission02
+/Users/tategillespie/Desktop/IS 413/Mission02/Mission02/bin/Debug/net6.0/Mission02.deps.json
+/Users/tategillespie/Desktop/IS 413/Mission02/Mission02/bin/Debug/net6.0/Mission02.runtimeconfig.json
+/Users/tategillespie/Desktop/IS 413/Mission02/Mission02/bin/Debug/net6.0/Mission02.dll
+/Users/tategillespie/Desktop/IS 413/Mission02/Mission02/bin/Debug/net6.0/Mission02.pdb
+/Users/tategillespie/Desktop/IS 413/Mission02/Mission02/obj/Debug/net6.0/Mission02.csproj.AssemblyReference.cache
+/Users/tategillespie/Desktop/IS 413/Mission02/Mission02/obj/Debug/net6.0/Mission02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tategillespie/Desktop/IS 413/Mission02/Mission02/obj/Debug/net6.0/Mission02.AssemblyInfoInputs.cache
+/Users/tategillespie/Desktop/IS 413/Mission02/Mission02/obj/Debug/net6.0/Mission02.AssemblyInfo.cs
+/Users/tategillespie/Desktop/IS 413/Mission02/Mission02/obj/Debug/net6.0/Mission02.csproj.CoreCompileInputs.cache
+/Users/tategillespie/Desktop/IS 413/Mission02/Mission02/obj/Debug/net6.0/Mission02.dll
+/Users/tategillespie/Desktop/IS 413/Mission02/Mission02/obj/Debug/net6.0/refint/Mission02.dll
+/Users/tategillespie/Desktop/IS 413/Mission02/Mission02/obj/Debug/net6.0/Mission02.pdb
+/Users/tategillespie/Desktop/IS 413/Mission02/Mission02/obj/Debug/net6.0/Mission02.genruntimeconfig.cache
+/Users/tategillespie/Desktop/IS 413/Mission02/Mission02/obj/Debug/net6.0/ref/Mission02.dll
