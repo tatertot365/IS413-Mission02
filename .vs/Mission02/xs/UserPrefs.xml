@@ -1,4 +1,23 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F87CA385-EDB3-471E-804B-4A83036487E8}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Mission02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission02/Program.cs">
+    <Files>
+      <File FileName="Mission02/Program.cs" Line="69" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission02" expanded="True">
+            <Node name="Mission02" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

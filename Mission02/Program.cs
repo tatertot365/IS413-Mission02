@@ -67,7 +67,7 @@ namespace Mission02
                 NumCounts[rolls[i]] += 1;
             }
 
-            int[] rollPerc = new int[12];
+            int[] rollPerc = new int[11];
             int j = 0;
             foreach(KeyValuePair<int, int> ele in NumCounts)
             {
